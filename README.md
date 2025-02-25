@@ -65,5 +65,19 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 
 ## Credit
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
-# astrobuild-starter-blog
+
+# Form Template with FabForm.io Backend
+
+This template provides a simple and customizable form setup that integrates with [FabForm.io](https://fabform.io) for seamless form handling. It supports effortless form submissions, spam protection, and easy data collection without the need for a custom backend.
+
+## Features
+- **FabForm.io integration** – Secure and reliable form submissions.
+- **Customizable form fields** – Easily modify fields to fit your needs.
+- **Spam protection** – Built-in anti-spam measures provided by FabForm.io.
+
+## Usage
+1. Sign up at [FabForm.io](https://fabform.io) and get your unique form endpoint.
+2. Replace the `action` attribute in the form with your FabForm.io endpoint.
+3. Deploy your form and start collecting submissions!
+
+
